@@ -161,4 +161,4 @@ cython_debug/
 
 data
 notebook_jsons.ipynb
-model
+vosk_model
