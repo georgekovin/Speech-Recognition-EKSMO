@@ -162,3 +162,5 @@ cython_debug/
 data
 notebook_jsons.ipynb
 vosk_model
+userid.txt
+apikey.txt
